@@ -1,4 +1,4 @@
-# 📉 Análisis de Tienda con Bajo Rendimiento –
+# 📉 Análisis de Tiendas, Para una Recomendación de Venta –
   Python + Google Colab
 
 ![Análisis de Datos en Python](https://th.bing.com/th/id/OIP.vz5DfCdbjozCdhqNPAcB6gHaHa?rs=1&pid=ImgDetMain)
