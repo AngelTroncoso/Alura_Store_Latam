@@ -19,8 +19,8 @@ A través de la limpieza, visualización y evaluación de variables clave, busca
 - Pandas 🐼
 - Matplotlib & Seaborn 📊
 - Google Colab 📓
-- Jupyter Notebooks
-- Git & GitHub
+- Trello 💻
+- Git & GitHub :shipit:
 
 ---
 
