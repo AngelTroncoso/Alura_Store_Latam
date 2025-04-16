@@ -81,5 +81,5 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y compartir
 _____________________________________________________________________________________________________
 
 ✨ Créditos
-Creado por Ángel Troncoso, apasionado del análisis de datos, Python y las decisiones basadas en datos.
-
+Asesoría y Distribución del curso por Alura Latam
+Repocitorio Creado por Ángel Troncoso, apasionado del análisis de datos, Python y las decisiones basadas en datos.
